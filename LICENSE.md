@@ -1,4 +1,4 @@
-# 
+# Professionnel Pixelle-Video scripts. Avec support multimodal et synchronisation cloud — optimisé pour des performances et une efficacité maximales.
 
 
 
